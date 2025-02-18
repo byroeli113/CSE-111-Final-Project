@@ -1,0 +1,40 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS specific files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Database files
+*.sqlite3
+
+# Output directories
+output/
+scraper_results/
+
+# OS generated files
+Thumbs.db
+*.bak
+
+# Any other specific files or directories for your project
+my_custom_directory/
+*.tmp
+
+*.exe

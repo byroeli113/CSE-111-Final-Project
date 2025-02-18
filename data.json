@@ -1,0 +1,1006 @@
+[
+    {
+        "chicken": {
+            "Solid Serving Size": 85.0,
+            "Fat": [
+                11.0,
+                0.14
+            ],
+            "Saturated fatty acids": [
+                4.0,
+                0.013333333333333334
+            ],
+            "Cholesterol": [
+                80.0,
+                0.27
+            ],
+            "Sodium": [
+                60.0,
+                0.03
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                20.0,
+                12.5
+            ],
+            "Calcium": [
+                11.0,
+                0.01
+            ],
+            "Iron": [
+                1.0,
+                0.08
+            ],
+            "Potassium": [
+                173.0,
+                0.04
+            ]
+        }
+    },
+    {
+        "chicken salad": {
+            "Solid Serving Size": 112.0,
+            "Fat": [
+                18.0,
+                0.23
+            ],
+            "Saturated fatty acids": [
+                5.0,
+                0.016666666666666666
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                64.0,
+                0.21
+            ],
+            "Sodium": [
+                226.0,
+                0.1
+            ],
+            "Carbohydrate": [
+                3.0,
+                0.01
+            ],
+            "Total Fiber": [
+                0.0,
+                0.01
+            ],
+            "Protein": [
+                19.0,
+                11.875
+            ],
+            "Vitamin D": [
+                0.0,
+                0.0
+            ],
+            "Calcium": [
+                17.0,
+                0.01
+            ],
+            "Iron": [
+                1.0,
+                0.06
+            ],
+            "Potassium": [
+                208.0,
+                0.04
+            ]
+        }
+    },
+    {
+        "chicken thigh": {
+            "Solid Serving Size": 130.0,
+            "Fat": [
+                18.0,
+                0.23
+            ],
+            "Saturated fatty acids": [
+                8.0,
+                0.02666666666666667
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                166.0,
+                0.55
+            ],
+            "Sodium": [
+                226.0,
+                0.1
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                31.0,
+                19.375
+            ],
+            "Vitamin D": [
+                0.0,
+                0.02
+            ],
+            "Calcium": [
+                14.0,
+                0.01
+            ],
+            "Iron": [
+                1.0,
+                0.07
+            ],
+            "Potassium": [
+                330.0,
+                0.07
+            ]
+        }
+    },
+    {
+        "chicken broth": {
+            "Solid Serving Size": 249.0,
+            "Fat": [
+                0.0,
+                0.01
+            ],
+            "Saturated fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                5.0,
+                0.02
+            ],
+            "Sodium": [
+                924.0,
+                0.4
+            ],
+            "Carbohydrate": [
+                1.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                1.0,
+                0.625
+            ],
+            "Vitamin D": [
+                0.0,
+                0.0
+            ],
+            "Calcium": [
+                10.0,
+                0.01
+            ],
+            "Iron": [
+                0.0,
+                0.01
+            ],
+            "Potassium": [
+                44.0,
+                0.01
+            ]
+        }
+    },
+    {
+        "chicken curry": {
+            "Solid Serving Size": 235.0,
+            "Fat": [
+                11.0,
+                0.14
+            ],
+            "Saturated fatty acids": [
+                2.0,
+                0.006666666666666667
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                74.0,
+                0.25
+            ],
+            "Sodium": [
+                73.0,
+                0.03
+            ],
+            "Carbohydrate": [
+                7.0,
+                0.03
+            ],
+            "Total Fiber": [
+                1.0,
+                0.05
+            ],
+            "Protein": [
+                28.0,
+                17.5
+            ],
+            "Vitamin D": [
+                0.0,
+                0.0
+            ],
+            "Calcium": [
+                39.0,
+                0.03
+            ],
+            "Iron": [
+                2.0,
+                0.11
+            ],
+            "Potassium": [
+                373.0,
+                0.08
+            ]
+        }
+    },
+    {
+        "chicken wings": {
+            "Solid Serving Size": 27.0,
+            "Fat": [
+                6.0,
+                0.08
+            ],
+            "Saturated fatty acids": [
+                2.0,
+                0.006666666666666667
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                22.0,
+                0.07
+            ],
+            "Sodium": [
+                105.0,
+                0.05
+            ],
+            "Carbohydrate": [
+                2.0,
+                0.01
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                4.0,
+                2.5
+            ],
+            "Vitamin D": [
+                0.0,
+                0.0
+            ],
+            "Calcium": [
+                5.0,
+                0.0
+            ],
+            "Iron": [
+                0.0,
+                0.02
+            ],
+            "Potassium": [
+                45.0,
+                0.01
+            ]
+        }
+    },
+    {
+        "baked chicken": {
+            "Solid Serving Size": 85.0,
+            "Fat": [
+                11.0,
+                0.14
+            ],
+            "Saturated fatty acids": [
+                4.0,
+                0.013333333333333334
+            ],
+            "Cholesterol": [
+                80.0,
+                0.27
+            ],
+            "Sodium": [
+                60.0,
+                0.03
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                20.0,
+                12.5
+            ],
+            "Calcium": [
+                11.0,
+                0.01
+            ],
+            "Iron": [
+                1.0,
+                0.08
+            ],
+            "Potassium": [
+                173.0,
+                0.04
+            ]
+        }
+    },
+    {
+        "fried chicken": {
+            "Solid Serving Size": 140.0,
+            "Fat": [
+                21.0,
+                0.27
+            ],
+            "Saturated fatty acids": [
+                8.0,
+                0.02666666666666667
+            ],
+            "Cholesterol": [
+                126.0,
+                0.42
+            ],
+            "Sodium": [
+                118.0,
+                0.05
+            ],
+            "Carbohydrate": [
+                4.0,
+                0.02
+            ],
+            "Total Fiber": [
+                0.0,
+                0.01
+            ],
+            "Protein": [
+                40.0,
+                25.0
+            ],
+            "Vitamin D": [
+                0.0,
+                0.01
+            ],
+            "Calcium": [
+                24.0,
+                0.02
+            ],
+            "Iron": [
+                1.0,
+                0.11
+            ],
+            "Potassium": [
+                327.0,
+                0.07
+            ]
+        }
+    },
+    {
+        "whole chicken": {
+            "Solid Serving Size": 598.0,
+            "Fat": [
+                81.0,
+                1.04
+            ],
+            "Saturated fatty acids": [
+                32.0,
+                0.10666666666666667
+            ],
+            "Cholesterol": [
+                526.0,
+                1.75
+            ],
+            "Sodium": [
+                490.0,
+                0.21
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                163.0,
+                101.875
+            ],
+            "Vitamin D": [
+                0.0,
+                0.0
+            ],
+            "Calcium": [
+                90.0,
+                0.07
+            ],
+            "Iron": [
+                7.0,
+                0.42
+            ],
+            "Potassium": [
+                1333.0,
+                0.28
+            ]
+        }
+    },
+    {
+        "chicken breast": {
+            "Solid Serving Size": 120.0,
+            "Fat": [
+                4.0,
+                0.06
+            ],
+            "Saturated fatty acids": [
+                1.0,
+                0.0033333333333333335
+            ],
+            "Cholesterol": [
+                102.0,
+                0.34
+            ],
+            "Sodium": [
+                89.0,
+                0.04
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                37.0,
+                23.125
+            ],
+            "Vitamin D": [
+                0.0,
+                0.01
+            ],
+            "Calcium": [
+                18.0,
+                0.01
+            ],
+            "Iron": [
+                1.0,
+                0.07
+            ],
+            "Potassium": [
+                307.0,
+                0.07
+            ]
+        }
+    },
+    {
+        "chicken cutlet": {
+            "Solid Serving Size": 127.0,
+            "Fat": [
+                8.0,
+                0.11
+            ],
+            "Saturated fatty acids": [
+                2.0,
+                0.006666666666666667
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                148.0,
+                0.49
+            ],
+            "Sodium": [
+                189.0,
+                0.08
+            ],
+            "Carbohydrate": [
+                16.0,
+                0.06
+            ],
+            "Total Fiber": [
+                0.0,
+                0.03
+            ],
+            "Protein": [
+                31.0,
+                19.375
+            ],
+            "Vitamin D": [
+                0.0,
+                0.03
+            ],
+            "Calcium": [
+                50.0,
+                0.04
+            ],
+            "Iron": [
+                2.0,
+                0.11
+            ],
+            "Potassium": [
+                272.0,
+                0.06
+            ]
+        }
+    },
+    {
+        "ground chicken": {
+            "Solid Serving Size": 85.0,
+            "Fat": [
+                9.0,
+                0.12
+            ],
+            "Saturated fatty acids": [
+                4.0,
+                0.013333333333333334
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                91.0,
+                0.3
+            ],
+            "Sodium": [
+                64.0,
+                0.03
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                20.0,
+                12.5
+            ],
+            "Calcium": [
+                6.0,
+                0.01
+            ],
+            "Iron": [
+                0.0,
+                0.04
+            ],
+            "Potassium": [
+                575.0,
+                0.12
+            ]
+        }
+    },
+    {
+        "chicken breasts": {
+            "Solid Serving Size": 120.0,
+            "Fat": [
+                4.0,
+                0.06
+            ],
+            "Saturated fatty acids": [
+                1.0,
+                0.0033333333333333335
+            ],
+            "Cholesterol": [
+                102.0,
+                0.34
+            ],
+            "Sodium": [
+                89.0,
+                0.04
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                37.0,
+                23.125
+            ],
+            "Vitamin D": [
+                0.0,
+                0.01
+            ],
+            "Calcium": [
+                18.0,
+                0.01
+            ],
+            "Iron": [
+                1.0,
+                0.07
+            ],
+            "Potassium": [
+                307.0,
+                0.07
+            ]
+        }
+    },
+    {
+        "grilled chicken": {
+            "Solid Serving Size": 192.0,
+            "Fat": [
+                6.0,
+                0.08
+            ],
+            "Saturated fatty acids": [
+                2.0,
+                0.006666666666666667
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                204.0,
+                0.68
+            ],
+            "Sodium": [
+                413.0,
+                0.18
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                57.0,
+                35.625
+            ],
+            "Vitamin D": [
+                0.0,
+                0.0
+            ],
+            "Calcium": [
+                12.0,
+                0.01
+            ],
+            "Iron": [
+                0.0,
+                0.05
+            ],
+            "Potassium": [
+                806.0,
+                0.17
+            ]
+        }
+    },
+    {
+        "rotisserie chicken": {
+            "Solid Serving Size": 3.0,
+            "Fat": [
+                10.0,
+                0.13
+            ],
+            "Saturated fatty acids": [
+                4.0,
+                0.013333333333333334
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                104.0,
+                0.35
+            ],
+            "Sodium": [
+                331.0,
+                0.14
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                22.0,
+                13.75
+            ],
+            "Calcium": [
+                15.0,
+                0.01
+            ],
+            "Iron": [
+                0.0,
+                0.04
+            ],
+            "Potassium": [
+                240.0,
+                0.05
+            ]
+        }
+    },
+    {
+        " bone and skin removed": {
+            "Solid Serving Size": 3.0,
+            "Fat": [
+                3.0,
+                0.04
+            ],
+            "Saturated fatty acids": [
+                1.0,
+                0.0033333333333333335
+            ],
+            "Cholesterol": [
+                73.0,
+                0.24
+            ],
+            "Sodium": [
+                64.0,
+                0.03
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                27.0,
+                16.875
+            ],
+            "Vitamin D": [
+                0.0,
+                0.0
+            ],
+            "Calcium": [
+                13.0,
+                0.01
+            ],
+            "Iron": [
+                0.0,
+                0.05
+            ],
+            "Potassium": [
+                220.0,
+                0.05
+            ]
+        }
+    },
+    {
+        "grilled chicken breast": {
+            "Solid Serving Size": 192.0,
+            "Fat": [
+                6.0,
+                0.08
+            ],
+            "Saturated fatty acids": [
+                2.0,
+                0.006666666666666667
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                204.0,
+                0.68
+            ],
+            "Sodium": [
+                413.0,
+                0.18
+            ],
+            "Carbohydrate": [
+                0.0,
+                0.0
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                57.0,
+                35.625
+            ],
+            "Vitamin D": [
+                0.0,
+                0.0
+            ],
+            "Calcium": [
+                12.0,
+                0.01
+            ],
+            "Iron": [
+                0.0,
+                0.05
+            ],
+            "Potassium": [
+                806.0,
+                0.17
+            ]
+        }
+    },
+    {
+        "breaded chicken breast": {
+            "Solid Serving Size": 15.0,
+            "Fat": [
+                1.0,
+                0.02
+            ],
+            "Saturated fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                6.0,
+                0.02
+            ],
+            "Sodium": [
+                67.0,
+                0.03
+            ],
+            "Carbohydrate": [
+                2.0,
+                0.01
+            ],
+            "Total Fiber": [
+                0.0,
+                0.0
+            ],
+            "Protein": [
+                2.0,
+                1.25
+            ],
+            "Calcium": [
+                2.0,
+                0.0
+            ],
+            "Iron": [
+                0.0,
+                0.01
+            ],
+            "Potassium": [
+                33.0,
+                0.01
+            ]
+        }
+    },
+    {
+        "baked breaded chicken breast": {
+            "Solid Serving Size": 170.0,
+            "Fat": [
+                10.0,
+                0.13
+            ],
+            "Saturated fatty acids": [
+                3.0,
+                0.01
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                150.0,
+                0.5
+            ],
+            "Sodium": [
+                722.0,
+                0.31
+            ],
+            "Carbohydrate": [
+                28.0,
+                0.1
+            ],
+            "Total Fiber": [
+                1.0,
+                0.06
+            ],
+            "Protein": [
+                42.0,
+                26.25
+            ],
+            "Vitamin D": [
+                0.0,
+                0.02
+            ],
+            "Calcium": [
+                186.0,
+                0.14
+            ],
+            "Iron": [
+                3.0,
+                0.18
+            ],
+            "Potassium": [
+                380.0,
+                0.08
+            ]
+        }
+    },
+    {
+        " breast": {
+            "Solid Serving Size": 170.0,
+            "Fat": [
+                18.0,
+                0.23
+            ],
+            "Saturated fatty acids": [
+                2.0,
+                0.006666666666666667
+            ],
+            "Trans fatty acids": [
+                0.0,
+                0.0
+            ],
+            "Cholesterol": [
+                109.0,
+                0.36
+            ],
+            "Sodium": [
+                617.0,
+                0.27
+            ],
+            "Carbohydrate": [
+                20.0,
+                0.07
+            ],
+            "Total Fiber": [
+                1.0,
+                0.04
+            ],
+            "Protein": [
+                31.0,
+                19.375
+            ],
+            "Vitamin D": [
+                0.0,
+                0.01
+            ],
+            "Calcium": [
+                62.0,
+                0.05
+            ],
+            "Iron": [
+                3.0,
+                0.2
+            ],
+            "Potassium": [
+                370.0,
+                0.08
+            ]
+        }
+    }
+]
