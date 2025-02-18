@@ -37,4 +37,5 @@ Thumbs.db
 my_custom_directory/
 *.tmp
 
-*.exe
+*.csv
+*.xlsx
